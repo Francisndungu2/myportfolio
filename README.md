@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Developed By **WANGARI GIKONYO**
+#### Developed By **Francis Ndung'u Mbugua**
 
 ## Description
 This is my Developer Portfolio.It contains a list of projects I have Been working on  and my contacts.
@@ -18,15 +18,15 @@ This is my Developer Portfolio.It contains a list of projects I have Been workin
 * Animated CSS
 
 ## Live Demo
-to view live demo <a href="https://wangarigikonyo.github.io/portfolio/">click here</a>
+to view live demo <a href="https://francisndungu2.github.io/myportfolio/">click here</a>
 
 ## Support and Contact
-* <a href="https://github.com/WangariGikonyo">Github<a/>
-* <a href="mailto:wangarie0@gmail.com">Gmail</a>
+* <a href="https://github.com/Francisndungu2">Github<a/>
+* <a href="mailto: francianmbugua15@gmail.com">Gmail</a>
 
 
-## LICENCE (c) (2018)
-copyright (c) <2018> **ESTHER WANGARI GIKONYO**
+## LICENCE (c) (2020)
+copyright (c) <2020> **Francis Ndung'u Mbugua**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
